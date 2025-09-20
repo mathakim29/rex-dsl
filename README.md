@@ -10,15 +10,15 @@ The DSL compiles into valid regex patterns via [`rply`](https://pypi.org/project
 
 ## 📑 Table of Contents
 
-1. [Features](#-features)
-2. [Installation](#-installation)
-3. [Quick Start](#-quick-start)
-4. [Language Specification](#-language-specification)
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Quick Start](#quick-start)
+4. [Language Specification](#language-specification)
 
    * [BNF Grammar](#bnf-grammar)
    * [Cheatsheet](#cheatsheet)
-5. [API Reference](#-api-reference)
-6. [License](#-license)
+5. [API Reference](#api-reference)
+6. [License](#license)
 
 ---
 
@@ -35,7 +35,7 @@ The DSL compiles into valid regex patterns via [`rply`](https://pypi.org/project
 
 ---
 
-## 📦 Installation
+## Installation
 
 We recommend using [**uv**](https://github.com/astral-sh/uv) for Python environment management:
 
