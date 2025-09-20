@@ -1,0 +1,22 @@
+[project]
+name = "rexdsl"
+version = "0.0.3"
+description = "custom regex dsl designed in rply for simplicity"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pytest>=8.4.2",
+    "regex>=2025.9.18",
+    "rply>=0.7.8",
+]
+
+[tool.setuptools.packages.find]
+include = ["rexdsl*"]
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+testpaths = [
+    "rexdsl/tests"
+]
+python_files = "test_*.py"

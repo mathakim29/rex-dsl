@@ -1,0 +1,12 @@
+[
+  "rexdsl/tests/test_1.py::test_and_sequence",
+  "rexdsl/tests/test_1.py::test_basic_repetition_and_or",
+  "rexdsl/tests/test_1.py::test_find_exact_match",
+  "rexdsl/tests/test_1.py::test_find_no_match",
+  "rexdsl/tests/test_1.py::test_find_with_flags",
+  "rexdsl/tests/test_1.py::test_find_with_repetition",
+  "rexdsl/tests/test_1.py::test_missing_semicolon",
+  "rexdsl/tests/test_1.py::test_repetition_with_number",
+  "rexdsl/tests/test_1.py::test_unexpected_token",
+  "rexdsl/tests/test_1.py::test_with_flags"
+]

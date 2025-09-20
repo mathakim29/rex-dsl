@@ -1,0 +1,5 @@
+{
+  "tests/rex.py": true,
+  "rexdsl/tests/rex.py": true,
+  "rexdsl/tests/test_1.py::test_unexpected_token": true
+}
