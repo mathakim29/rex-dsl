@@ -154,7 +154,6 @@ print(rex.exists("a"))   # ❌ False
 ---
 
 ## License
-
 MIT — free to use, modify, and distribute.
 
 ---
